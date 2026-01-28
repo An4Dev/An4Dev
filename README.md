@@ -57,10 +57,8 @@
 </div>
 <hr/>
 
-## 🛠️ Featured Projects
 
-
-<h4><u><strong>⭐ &nbsp;LOGARITHM GAMES Mint</strong></u> &nbsp;(NFT Mint : BNB)</h4>
+<!-- <h4><u><strong>⭐ &nbsp;LOGARITHM GAMES Mint</strong></u> &nbsp;(NFT Mint : BNB)</h4>
 <hr />
 
 <img align="right" width="500px" src="./nft.jpg">
@@ -140,7 +138,7 @@
 <div>Invest in Real Farms & Carbon Projects : React.js, Web3.Js, Ethereum, Smartcontract, Supabase, API Integratio,Node.js</div>
 - Live: <a href="https://agri9.netlify.app/">Invest in Real Farms & Carbon Projects (WEB3)</a>
 
-<br />
+<br /> -->
 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
