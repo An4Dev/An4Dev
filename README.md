@@ -5,6 +5,14 @@
     <img width="1850" height="500" align="center" src="1234.jpg" alt="EvilG-MC"/>
 </div> -->
 <!-- <br/> -->
+# 👨‍🎓 About Me:
+Hello!, I’m Felix Reyes, AI Full-Stack & Blockchain Developer with a strong passion for building intelligent, scalable, and secure digital solutions. Experienced in modern web technologies including React, Next.js, Node.js, Python, and TypeScript, combined with hands-on expertise in smart-contract development and decentralized applications. Skilled in designing seamless UI/UX experiences, integrating AI models into real products, and deploying DApps across leading blockchain networks. Dedicated to delivering high-performance systems, solving complex technical challenges, and contributing to future-focused projects at the intersection of AI and blockchain innovation.
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=felixreyes-3136&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixreyes-3136&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</div>
+
 <p align="left">
     Just call me <b>David More</b>, As a Blockchain Developer, I love working in Solana, EVM, Bitcoin, and Sui Blockchain and Focusing Solana All Project.
     like MemeCoin, Solana CasinoGame, Trading Bots, Dapp, DAO, Etc...
