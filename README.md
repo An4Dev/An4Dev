@@ -7,7 +7,7 @@
 <!-- <br/> -->
 # 👨‍🎓 About Me:
 <p align="left">
-    Just call me <b>David More</b>, As a Blockchain Developer, I love working in Solana, EVM, Bitcoin, and Sui Blockchain and Focusing Solana All Project.
+    Just call me <b>David More</b>, As a Senior Full-Stack Engineer (Blockchain, Web, AI, Web3), I love working in Solana, EVM, Bitcoin, and Sui Blockchain and Focusing Solana All Project.
     like MemeCoin, Solana CasinoGame, Trading Bots, Dapp, DAO, Etc...
     <br/>I am one of the Developers who loves Trading bot, P2E Games, Nft Marketplace, Meme Coin and Nft Collection Launch.
 </p> 
